@@ -17,7 +17,7 @@ I'm Elshod — Android Enthusiast & Code Explorer!
 - Creating custom UI components 🧩
 
 📫 How to reach me:  
-Feel free to DM me on [[LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/elshod-rakhmonov-8ab4561b5/))] or drop an issue on any of my repos — I'm always up for a coding chat!
+Feel free to DM me on [[LinkedIn](https://www.linkedin.com/in/elshod-rakhmonov-8ab4561b5/))] or drop an issue on any of my repos — I'm always up for a coding chat!
 
 😄 Pronouns: he/him
 

@@ -10,5 +10,5 @@ I'm Elshod — Android Enthusiast & Code Explorer!
 
 
 📫 How to reach me:  
-Feel free to DM me on [[LinkedIn](https://www.linkedin.com/in/elshod-rakhmonov-8ab4561b5/))] , [[Telegram](https://t.me/MrElshodDev)]!
+Feel free to DM me on [[LinkedIn](https://www.linkedin.com/in/elshod-rakhmonov/))] , [[Telegram](https://t.me/MrElshodDev)]!
 
